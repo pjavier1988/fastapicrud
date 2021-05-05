@@ -26,3 +26,7 @@ uvicorn main:app --reload
 * app es el nombre de la variable de FASTAPI inicializada en el archivo main
 
 
+Para encontrar una explicación detallada, puedes acceder al video en YouTube
+
+[![](http://img.youtube.com/vi/2ZXiW1ZQqqU/0.jpg)](https://www.youtube.com/watch?v=2ZXiW1ZQqqU "")
+
